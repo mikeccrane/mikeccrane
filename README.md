@@ -1,7 +1,25 @@
-- 👋 Hi, I’m @mikeccrane
-- 👀 As a new developer, I’m fueled by curiosity and a passion for innovation, with a budding interest in the transformative power of AI. I'm captivated by how artificial intelligence is reshaping our world and eager to be part of this evolution.
-- 🌱 My current journey is a tapestry of learning paths, where I'm diligently exploring the intricacies of Python, unraveling the potential of AWS cloud solutions, and immersing myself in the dynamic world of React. Each line of code is a step forward on this exciting path of growth and discovery.
-- 📫 Reach out here or on X @mikeccrane
+👋  Hi, I'm @mikeccrane
+
+💻 Software Developer | AI Enthusiast
+
+⭐  Driven by a passion for technology and eager to build innovative solutions.
+
+My Journey:
+
+- **Software Developer**: Currently working on an educational project within FFV's Voice team.
+- **Background in Field Engineering**: 16 years with Sky, honing problem-solving, adaptability, and technical proficiency.
+- **Career Transition Success**: "Getting into Tech" program graduate, ready to make my mark in software development.
+
+**Tech Stack:**
+
+- **Languages**: Python, TypeScript, HTML/CSS
+- **Frameworks**: React, Flask
+- **Cloud**: AWS CDK, CodeBuild, CodePipeline
+- **AI**: Large Language Models, chatbots
+
+🌱 Passionate about learning, growth, and contributing to meaningful projects. Open to exploring new technologies and stacks.
+
+📫  Feel free to connect! X @mikeccrane
 
 <!---
 mikeccrane/mikeccrane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
