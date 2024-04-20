@@ -6,14 +6,14 @@
 
 My Journey:
 
-- **Software Developer**: Currently working on an educational project within FFV's Voice team.
+- **Software Developer**: Part of the Beyond TV team within Sky UK/Comcast
 - **Background in Field Engineering**: 16 years with Sky, honing problem-solving, adaptability, and technical proficiency.
 - **Career Transition Success**: "Getting into Tech" program graduate, ready to make my mark in software development.
 
 **Tech Stack:**
 
 - **Languages**: Python, TypeScript, HTML/CSS
-- **Frameworks**: React, Flask
+- **Frameworks**: React, Flask, Flutter
 - **Cloud**: AWS CDK, CodeBuild, CodePipeline
 - **AI**: Large Language Models, chatbots
 
